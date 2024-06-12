@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b63af259.css",
+    "main.js": "/static/js/main.9bf6d5a0.js",
+    "static/media/arrondi.WEBP": "/static/media/arrondi.a35256cefee9da7a9e9d.WEBP",
+    "index.html": "/index.html",
+    "main.b63af259.css.map": "/static/css/main.b63af259.css.map",
+    "main.9bf6d5a0.js.map": "/static/js/main.9bf6d5a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b63af259.css",
+    "static/js/main.9bf6d5a0.js"
+  ]
+}
